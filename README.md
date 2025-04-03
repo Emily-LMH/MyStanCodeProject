@@ -2,7 +2,7 @@
 Hello there!\
 This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Watch my [DEMO VIDEO!](C:\Users\stu00\AppData\Local\Programs\Python\Python37\python.exe C:/Users/stu00/OneDrive/桌面/SC001_workshop/SC001_lecture02/Steeplechase.py worlds/Steeplechase.kwld) 
+Watch my [DEMO VIDEO!](link) 
 
 # Project Source Codes:
 [BeeperRow](SC001_lecture02/BeeperRow.py) \
